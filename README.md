@@ -15,6 +15,6 @@ Sigo me atualizando, embora tenha concluído a graduação de Tecnologia de Dese
 
 Meus próximos passos são familiarizar com os Padrões de Projetos, Boas Práticas (SOLID), além de durante este percurso exercitar muito código.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attairsilva)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=attairsilva)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attairsilva&layout=compact)]
 
 
