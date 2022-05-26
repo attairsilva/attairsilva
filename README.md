@@ -1,6 +1,3 @@
-### Ola Pequeno Gafanhoto! Sou Attair Silva 😀
-
----
 
 ### Sou um estudante de Sistemas para Internet 🙉
 
