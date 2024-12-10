@@ -1,9 +1,6 @@
 
 # O tempo não para! 🙉
 
-### Minhas Redes https://linktr.ee/attair
-
-### Etudando Python
 ### Atualizando meu conhecimento em PHP
 
 
