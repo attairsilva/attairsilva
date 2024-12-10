@@ -5,6 +5,6 @@
 ### Iniciando os estudos em Python
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attairsilva&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attairsilva&layout=all)]
 
 
